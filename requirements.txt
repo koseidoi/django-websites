@@ -1,4 +1,3 @@
 django
-pathlib
 whitenoise
 gunicorn
