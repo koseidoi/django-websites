@@ -1,4 +1,4 @@
 django
 whitenoise
 gunicorn
-pathlib=0.6
+pathlib==0.6
