@@ -1,4 +1,5 @@
 django
 whitenoise
 gunicorn
-pathlib==1.0.1
+pathlib
+collections
